@@ -1,0 +1,198 @@
+body {
+    margin: 10px;
+}
+
+.main {
+    position: absolute;
+    width: 1336px;
+    height: 838px;
+    left: 53px;
+    top: 36px;
+
+    background: #DB3D3D;
+    border-radius: 60px;
+}
+
+.header-line {
+    display: grid;
+}
+
+.rectangle{
+    position: relative;
+    width: 989px;
+    height: 82px;
+    left: 60px;
+    top: 28px;
+
+    background: #FFFFFF;
+    border-radius: 42px;
+}
+
+.menu-item{
+    position: relative;
+    color: #000;
+    text-decoration: none; /*удаление подчеркивания текста*/
+    font-size: 25px;
+    padding-left: 157px;
+    top: 27px;
+    font-family: 'Montserrat';
+    padding: 26px 40px 26px 86px;
+}
+.auth-back{
+    position: absolute;
+    width: 715px;
+    height: 618px;
+    left: 386px;
+    top: 186px;
+
+    background: #FFFFFF;
+    border-radius: 32px;
+}
+.log-in{
+    position: relative;
+    width: 206px;
+    height: 98px;
+    left: 252px;
+    top: -22px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 98px;
+
+    color: #000000;
+}
+
+.auth-rectangle{
+    position: relative;
+    width: 93px;
+    height: 60px;
+    left: 424px;
+    top: 288px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+.auth-img{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 448px;
+    top: 232px;
+}
+
+.input1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 507px;
+    height: 82px;
+    left: 95px;
+    top: 210px;
+    font-size: 25px;
+    font-family: 'Montserrat';
+
+    border: 2px solid #000000;
+    border-radius: 30px;
+    padding: 26px 360px 26px 50px;
+
+}
+.input2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 507px;
+    height: 82px;
+    left: 95px;
+    top: 350px;
+    font-size: 25px;
+    font-family: 'Montserrat';
+
+    border: 2px solid #000000;
+    border-radius: 30px;
+    padding: 26px 350px 26px 50px;
+}
+.auth-btn1{
+
+    position: relative;
+    width: 354px;
+    height: 75px;
+    left: 177px;
+    top: 333px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Montserrat';
+
+    background: #FF0000;
+    border-radius: 30px;
+    padding: 22px 175px 22px 100px;
+
+}
+.cns{
+
+    position: absolute;
+    left: 1080px;
+    top: 8px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+
+    color: #FFFFFF;
+}
+
+.title{
+
+    position: relative;
+    left: 120px;
+    top: 50px;
+
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 98px;
+
+    color: #FFFFFF;
+}
+
+.button{
+    position: relative;
+    text-decoration: none;
+    font-size: 50px;
+    color: #000;
+    font-family: 'Montserrat';
+
+    left: 120px;
+    top: 57px;
+
+    background: #FFFFFF;
+    border-radius: 40px;
+    padding: 30px 156px 30px 56px;
+}
+
+.img{
+    background-image: url(arrow-right.png);
+    background: #DB3D3D;
+    border-radius: 40px;
+    padding: 2px 13px;
+}
+
+.line1{
+    position: absolute;
+    width: 278px;
+    height: 624px;
+    left: 1162px;
+    top: 285px;
+}
+.line2{
+    position: absolute;
+    width: 439px;
+    height: 485px;
+    left: 1033px;
+    top: 389px;
+}
