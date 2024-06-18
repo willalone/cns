@@ -1,0 +1,111 @@
+body {
+    margin: 10px;
+}
+
+.constructor {
+    position: absolute;
+    width: 1336px;
+    height: 838px;
+    left: 53px;
+    top: 36px;
+
+    background: #DB3D3D;
+    border-radius: 60px;
+}
+
+.const-title{
+
+    position: relative;
+    left: 180px;
+    top: 90px;
+
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 98px;
+
+    color: #FFFFFF;
+}
+
+.const-input{
+    position: relative;
+    left: 120px;
+    top: 160px;
+}
+
+.button{
+    position: relative;
+    text-decoration: none;
+    font-size: 50px;
+    color: #000;
+    font-family: 'Montserrat';
+
+    left: 120px;
+    top: 290px;
+
+    background: #FFFFFF;
+    border-radius: 40px;
+    padding: 30px 156px 30px 56px;
+}
+
+.batnn{
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+  color: #000;
+  font-family: 'Montserrat';
+
+  left: 50px;
+  top: 57px;
+
+  background: #FFFFFF;
+  border-radius: 40px;
+  padding: 30px 156px 30px 56px;
+
+}
+.butnn{
+  position: relative;
+  text-decoration: none;
+  font-size: 20px;
+  color: #000;
+  font-family: 'Montserrat';
+
+  left: 600px;
+  top: -30px;
+
+  background: #FFFFFF;
+  border-radius: 40px;
+  padding: 30px 156px 30px 56px;
+
+}
+.img{
+    background-image: url(arrow-right.png);
+    background: #DB3D3D;
+    border-radius: 40px;
+    padding: 2px 13px;
+}
+.arrow-rectangle{
+    position: relative;
+    width: 109px;
+    height: 72px;
+    left: 590px;
+    top: 227px;
+
+    background: #DB3D3D;
+    border-radius: 40px;
+
+}
+
+.arrow-img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    left: 610px;
+    top: 158px;
+}
+
+.const-btn{
+    position: relative;
+    left: 45px;
+    top: 25px;
+}
